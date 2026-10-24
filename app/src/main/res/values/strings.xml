@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atom fizikasi</string>
+    <string name="error_title">Internetga ulanib bo\'lmadi</string>
+    <string name="error_message">Aloqani tekshirib, qayta urinib ko\'ring.</string>
+    <string name="retry">Qayta urinish</string>
+    <string name="cannot_open_link">Havolani ochib bo\'lmadi</string>
+</resources>
